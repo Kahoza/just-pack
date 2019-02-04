@@ -1,0 +1,57 @@
+#banner{
+  text-align: center;
+  background-image: url("images/travel-plan.jpg");
+  background-size: cover;
+  margin: 0px;
+  padding: 150px;
+}
+#banner h1 {
+  color: white;
+  font-size: 80px;
+  text-shadow: 4px 4px 8px black;
+}
+#banner h2 {
+  color: black;
+  font-size: 35px;
+  text-shadow: 5px 5px 8px white;
+}
+.container h1{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 50px;
+  text-shadow: 1px 1px 2px gray;
+}
+.card {
+  position: relative;
+  margin: 30px;
+}
+.card-description {
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  color: black;
+  text-shadow: 4px 4px 8px black;
+}
+.card img{
+  width: 50px
+  height: 50px;
+  opacity: 0.8;
+}
+.card img:hover {
+  opacity: 1;
+}
+.card-title {
+  color: white;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 20px;
+}
+#footer a:hover {
+  color: white;
+}
