@@ -1,3 +1,6 @@
+#body {
+  background: #F2F2F2;
+}
 #banner{
   background-image: url("images/travel-plan.jpg");
   background-size: cover;
@@ -13,15 +16,15 @@
 #banner h2 {
   text-align: center;
   color: black;
-  font-size: 35px;
-  text-shadow: 5px 5px 8px white;
+  font-size: 40px;
+  text-shadow: 4px 4px 10px white;
   padding: 100px;
 }
 .container h1{
   text-align: center;
   margin-top: 30px;
   font-size: 50px;
-  text-shadow: 1px 1px 2px gray;
+  text-shadow: 2px 2px 8px gray;
 }
 .card {
   position: relative;
@@ -59,5 +62,4 @@
 }
 #footer a:hover {
   color: white;
-  font-size: 35px;
 }
