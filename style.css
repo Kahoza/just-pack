@@ -1,19 +1,21 @@
 #banner{
-  text-align: center;
   background-image: url("images/travel-plan.jpg");
   background-size: cover;
   margin: 0px;
-  padding: 150px;
 }
 #banner h1 {
+  text-align: center;
   color: white;
   font-size: 80px;
   text-shadow: 4px 4px 8px black;
+  padding: 80px;
 }
 #banner h2 {
+  text-align: center;
   color: black;
   font-size: 35px;
   text-shadow: 5px 5px 8px white;
+  padding: 100px;
 }
 .container h1{
   text-align: center;
@@ -33,7 +35,7 @@
   text-shadow: 4px 4px 8px black;
 }
 .card img{
-  width: 50px
+  width: 50px;
   height: 50px;
   opacity: 0.8;
 }
